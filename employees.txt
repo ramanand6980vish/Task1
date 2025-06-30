@@ -1,0 +1,3 @@
+Ramanand,24,manager,33000.00
+Roushan kumar,26,20000,Tester
+Rishu Kumar,23,30000.00,Programmer
